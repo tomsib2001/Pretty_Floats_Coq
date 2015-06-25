@@ -1,0 +1,15 @@
+#Ocaml
+*.annot
+*.cmo
+*.cma
+*.cmi
+*.a
+*.o
+*.cmx
+*.cmxs
+*.cmxa
+
+# Coq
+*.vo
+*.glob
+*.v.d
